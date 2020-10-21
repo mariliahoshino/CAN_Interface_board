@@ -1,6 +1,6 @@
 //This project is a TransReceiver Bluetooth with CAN Analyser
 //Can send and receive data in a CAN bus network
-//Licensed under MIT License
+//Licensed under GNU Lesser General Public License v2.1
 //
 // Marília Zeniti Hoshino
 //mailto:mariliahoshino@hotmail.com
