@@ -12,7 +12,7 @@ This part is a electronic part <br>
 The version don't have CRC, REC
 
 The schematic<br>
-<img src="https://github.com/mariliahoshino/CAN_Interface_board/blob/main/Picture/ESP32_CAN_Transceiver.png?raw=true" width="600"> <br>
+<img src="https://github.com/mariliahoshino/CAN_Interface_board/blob/main/Picture/ESP32CAN_Transceiver.png?raw=true" width="600"> <br>
 
 
 There're two Transceivers, talks to each other <br>
