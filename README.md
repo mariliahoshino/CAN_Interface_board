@@ -15,7 +15,7 @@ The schematic<br>
 <img src="https://github.com/mariliahoshino/CAN_Interface_board/blob/main/Picture/ESP32_CAN_Transceiver.png?raw=true" width="600"> <br>
 
 
-There're two Transceivers, one talks to each other <br>
+There're two Transceivers, talks to each other <br>
 <img src="https://github.com/mariliahoshino/CAN_Interface_board/blob/main/Picture/20201025_161437.jpg?raw=true" width="600"><br>
 
 CAN Signal<br>
