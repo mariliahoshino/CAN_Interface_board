@@ -11,8 +11,15 @@ https://github.com/mariliahoshino/Bluetooth_Terminal_Serial
 This part is a electronic part <br>
 The version don't have CRC, REC
 
-
+The schematic
 <img src="https://github.com/mariliahoshino/CAN_Interface_board/blob/main/Picture/ESP32_CAN_Transceiver.png?raw=true" width="600">
+
+
+There're two Transceivers, um fala um com o outro
+<img src="https://github.com/mariliahoshino/CAN_Interface_board/blob/main/Picture/20201025_161437.jpg?raw=true" width="600">
+
+CAN Signal<br>
+<img src="https://github.com/mariliahoshino/CAN_Interface_board/blob/main/Picture/TEK0000.BMP"    width="600"> <br>
 
 
 
