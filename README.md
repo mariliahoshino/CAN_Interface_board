@@ -1,3 +1,7 @@
+
+### <a href="https://github.com/mariliahoshino"> My profile </a> <br>
+
+
 # CAN_Interface_board
 This project for use together Bluetooth_Terminal_Serial
 
@@ -32,7 +36,7 @@ https://circuitdigest.com/microcontroller-projects/using-classic-bluetooth-in-es
 https://assets.vector.com/cms/content/products/VN16xx/docs/VN1600_Interface_Family_Manual_EN.pdf  page. 45 <br>
 
 
-
+<!--
 ### My Degree
 
 <a href="https://www.sp.senac.br/">   <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/School/logo_senac.png?raw=true" height="30" widht="400" > </a> &nbsp;Post graduation Quality of Software Engineering 
@@ -51,3 +55,5 @@ https://assets.vector.com/cms/content/products/VN16xx/docs/VN1600_Interface_Fami
 <a href="https://mariliahoshino.wixsite.com/cvitae/"> Personal page <img src ="https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_site.png?raw=true" height="20" widht="400"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.instagram.com/mari.zeniti/"><img src = "https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_instagram.png?raw=true"  height="20" widht="400"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.facebook.com/mari.zeniti"><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_facebook.png?raw=true"   height="20" widht="400"></a>
+
+-->
