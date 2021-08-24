@@ -4,9 +4,10 @@
 //
 // Marília Zeniti Hoshino
 //mailto:mariliahoshino@hotmail.com
+//https://linktr.ee/mariliah
 //https://www.linkedin.com/in/mariliahoshino/
 //https://github.com/mariliahoshino
-//https://mariliahoshino.wixsite.com/cvitae
+//https://mariliah.dev
 //https://www.instagram.com/mari.zeniti/
 
 
