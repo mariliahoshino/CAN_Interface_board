@@ -25,10 +25,10 @@ There're two Transceivers, talks to each other <br>
 CAN Signal<br>
 <img src="https://github.com/mariliahoshino/CAN_Interface_board/blob/main/Picture/TEK0000.BMP"    width="600"> <br>
 
-The original code is saved with me, in this project on GitHub I changed the original code
-I made this project for use in maintenance of trains in the subway of São Paulo
-Link of the video
-https://semanadetecnologia.com.br/27semana/evento/evento?id=51
+The original code is saved with me, in this project on GitHub I changed the original code <br>
+I made this project for use in maintenance of trains in the subway of São Paulo <br>
+Link of the video <br> 
+https://semanadetecnologia.com.br/27semana/evento/evento?id=51  <br>
 
 
 source <br>
